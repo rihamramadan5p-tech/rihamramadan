@@ -1,67 +1,67 @@
-### AI & Cloud Solutions Architect | Technical Presales | RFXs | AWS Solutions Architect - Professional
 
-More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
+<h2>Hey 👋, I'm Reham Ramadan</h2>
 
-<table><tr>
-
----
-
-### On my blog
-
-<!-- blog starts -->
-* [Large-scale online deanonymization with LLMs](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/governance,/responsibleai,/ethics,/privacy/2026/10/15/Deanonymization.html)
-* [Ads in AI Chatbots](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/governance,/responsibleai,/ethics/2026/09/05/AdsInChatbots.html)
-* [Open AI Hugging Face Report](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/security/2026/09/01/OpenAIHuggingFaceReport.html)
-<!-- blog ends -->
-  More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
-  </tr>
-<tr>
-
-### TIL snippets
-
-<!-- tilentries starts -->
-
-* [PII Minimization](https://github.com/vidyabhandary/til/blob/master/genai/PIIMinimization.md)
-* [Semantic VAD](https://github.com/vidyabhandary/til/blob/master/genai/SemanticVAD.md)
-* [Temporal RAG](https://github.com/vidyabhandary/til/blob/master/genai/TemporalRag.md)
-<!-- tilentries ends -->
-  More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
-  </tr>
-
-</table>
-
----
-
-<a href="https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html">How this works</a>
-<a href="https://github.com/vidyabhandary/vidyabhandary/actions"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
-
-<a href="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits" align="right" alt="Visits"></a>
-
-<p></br></p>
-<p align="center">
-  <a href="https://in.linkedin.com/in/vidyabhandary" target="blank"><img src="https://raw.githubusercontent.com/vidyabhandary/vidyabhandary/refs/heads/master/assets/linkedin.svg" alt="LinkedIn"/></a> 
-  <a href="https://kaggle.com/vidyabhandary" target="blank"><img src="https://raw.githubusercontent.com/vidyabhandary/vidyabhandary/refs/heads/master/assets/kaggle.svg" alt="Kaggle"/></a> 
-  <a href="https://vidyabhandary.medium.com" target="blank"><img src="https://raw.githubusercontent.com/vidyabhandary/vidyabhandary/refs/heads/master/assets/medium.svg" alt="Medium"/></a> 
-  <a href="https://dev.to/vidyabhandary" target="blank"><img src="https://raw.githubusercontent.com/vidyabhandary/vidyabhandary/refs/heads/master/assets/devto.svg" alt="dev.to"/></a>
-  <a href="https://vidyabhandary.substack.com" target="blank"><img src="https://raw.githubusercontent.com/vidyabhandary/vidyabhandary/refs/heads/master/assets/substack.svg" alt="Substack"/></a>
+<p>
+  🎓 Final-Year Management Information Systems Student<br>
+  🐍 Python Developer in Progress | 💻 Tech Enthusiast
 </p>
 
-<!-- ### Hi there 👋 --->
-<!--
-<a href="https://in.linkedin.com/in/vidyabhandary"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
--->
-<!--
-**vidyabhandary/vidyabhandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
-Here are some ideas to get you started:
+<p>
+  I'm Reham Ramadan, a final-year student at the Faculty of Management Information Systems and Accounting.
+  I'm passionate about programming, problem-solving, and technology.
+  I'm currently focusing on Python development, improving my programming skills,
+  and building projects to gain practical experience and grow as a developer.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>⚡ A Few Quick Facts</h2>
+
+<ul>
+  <li>🎓 I'm currently in my final year of university.</li>
+  <li>🐍 I'm learning and working with Python.</li>
+  <li>💻 I'm interested in software development and problem-solving.</li>
+  <li>📚 I'm continuously learning new technologies and improving my skills.</li>
+  <li>🚀 I'm building projects to apply what I learn.</li>
+  <li>🤝 I'm open to learning opportunities and collaborating on projects.</li>
+</ul>
+
+<h2>🛠️ Languages and Tools</h2>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+<h2>🚀 My Goals</h2>
+
+<ul>
+  <li>Improve my Python programming skills.</li>
+  <li>Build practical projects and expand my portfolio.</li>
+  <li>Learn new technologies and gain hands-on experience.</li>
+  <li>Grow as a developer and contribute to meaningful projects.</li>
+</ul>
+
+<h2>📂 My Projects</h2>
+
+<p>
+  I'm working on developing projects to practice my programming skills
+  and turn what I learn into practical applications.
+  Check out my repositories to explore my work!
+</p>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p>✨ Always learning, building, and growing!</p>

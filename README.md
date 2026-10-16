@@ -1,5 +1,5 @@
 
-<h2>Hey 👋, I'm Reham Ramadan</h2>
+<h2>Hey 👋, I'm Riham Ramadan</h2>
 
 <p>
   🎓 Final-Year Management Information Systems Student<br>
@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  I'm Reham Ramadan, a final-year student at the Faculty of Management Information Systems and Accounting.
+  I'm Riham Ramadan, a final-year student at the Faculty of Management Information Systems and Accounting.
   I'm passionate about programming, problem-solving, and technology.
   I'm currently focusing on Python development, improving my programming skills,
   and building projects to gain practical experience and grow as a developer.
